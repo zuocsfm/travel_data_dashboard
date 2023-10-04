@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pyproj
+plotly
+pydeck
+streamlit-extras
